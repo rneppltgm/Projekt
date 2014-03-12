@@ -1,0 +1,3 @@
+Dies ist das Projekt.txt
+@author: Rupert Neppl
+@version: 12.März.2014
